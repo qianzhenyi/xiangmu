@@ -42,8 +42,8 @@ header>div {
 header>div:nth-child(2) {
 	width: 45%;
 	font-size: 0.2rem;
-	padding-left: 6.8%;
-	padding-right: 6.3%;
+	padding-left: 3%;
+	padding-right: 3%;
 }
 
 .section1 {
@@ -490,7 +490,7 @@ header>div {
 }
 
 header>div:nth-child(2) {
-	width: 45%;
+	width: 40%;
 	font-size: 0.2rem;
 	padding-left: 6.8%;
 	padding-right: 6.3%;
